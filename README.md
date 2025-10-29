@@ -17,3 +17,6 @@
 - Select a well known old game or create your own idea
 - Plan together, let Copilot help, divide into smaller pieces, and use all hands for the development
 - Use any language you like and implement it as mobile/web/desktop/command line or in any other environment
+
+## Useful Links
+- [Prompting guide](https://www.promptingguide.ai/)
