@@ -20,3 +20,4 @@
 
 ## Useful Links
 - [Prompting guide](https://www.promptingguide.ai/)
+- [Awesome Copilot](https://github.com/github/awesome-copilot/tree/main/prompts)
