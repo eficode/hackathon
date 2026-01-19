@@ -11,6 +11,15 @@
     - Try different models and compare results
     - Try instruction files and chat prompts
     - Try MCP server
+- Define tickets and let Copilot do it for you
+    - Create a memorygame and divide the development into tickets
+    - Select any programming language you like
+    - You can use for example these APIs for fetching images:
+        - Star Wars characters API https://akabab.github.io/starwars-api/#alljson
+        - Pokemon characters API https://pokeapi.co/
+        - Countries API https://flagsapi.com/#quick
+    - You can use sounds, background images, several players, let user select grid size etc.
+    - If it is too slow to develop online by assigning the tickets to Copilot, create the tickets in IDE and run Copilot locally
 
 ## Game Challenge
 - Work in groups
