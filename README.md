@@ -31,3 +31,4 @@
 - [Prompting guide](https://www.promptingguide.ai/)
 - [Awesome Copilot](https://github.com/github/awesome-copilot/tree/main/prompts)
 - [GitHub list of MCP](https://github.com/mcp/)
+- [GitHub Copilot plans and their features](https://github.com/features/copilot/plans)
